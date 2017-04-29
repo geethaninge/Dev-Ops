@@ -5,3 +5,5 @@
 
 
 reading Devops
+
+Getting hands on 
